@@ -1,0 +1,14 @@
+.story::-webkit-scrollbar{
+  display: none;
+}
+
+a:focus {
+  outline: none !important;
+}
+
+.error{
+  font-weight: 500;
+  color: #df0812;
+  text-transform: capitalize;
+  margin: 7px;
+}
